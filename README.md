@@ -4,7 +4,7 @@
 
 A lightweight proof-of-concept for testing LLM safety mechanisms against jailbreak attempts. Uses local Ollama models - no API costs, runs offline.
 
-⚠️ **Educational/research use only. Requires authorization for production testing.**
+⚠️ **Educational/research use only**
 
 ---
 
