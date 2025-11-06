@@ -170,7 +170,7 @@ See `PROJECT_HYDRA_PLAN.md` for roadmap to 500+ templates.
 
 ## Ethical Use
 
-**Authorized use only:**
+**Education/Research use only:**
 - ✅ Internal security testing
 - ✅ Academic research
 - ✅ Educational purposes
