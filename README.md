@@ -1,6 +1,6 @@
 # Project Hydra
 
-**Toy adversarial prompt testing framework for LLMs**
+**Adversarial prompt testing framework for LLMs**
 
 A lightweight proof-of-concept for testing LLM safety mechanisms against jailbreak attempts. Supports both Ollama and HuggingFace transformers - no API costs, runs offline.
 
