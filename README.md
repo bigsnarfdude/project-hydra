@@ -2,7 +2,8 @@
 
 **Adversarial prompt testing framework for LLMs**
 
-A lightweight proof-of-concept for testing LLM safety mechanisms against jailbreak attempts. Supports both Ollama and HuggingFace transformers - no API costs, runs offline.
+A lightweight proof-of-concept for testing LLM safety mechanisms against jailbreak attempts. 
+Examples using Ollama and HuggingFace transformers
 
 **Educational/research use only**
 
