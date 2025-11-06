@@ -61,7 +61,7 @@ Testing against undefended (GPT-2) vs defended (gpt-oss:20b) models:
 - ✅ Indirect: 100% success (Hypothetical Scenario)
 - ❌ Direct Injection: 0% success
 
-**Observation:** Modern safety training is ffective. GPT-2 provides an example of an undefended baseline for validating attack templates.
+**Observation:** Modern safety training is effective. GPT-2 provides an example of an undefended baseline for validating attack templates.
 
 ## Example Output
 
