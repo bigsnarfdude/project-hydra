@@ -143,9 +143,4 @@ Apache 2.0 (see LICENSE file)
 
 ## Author
 
-Built by [@bigsnarfdude](https://github.com/bigsnarfdude) as a proof-of-concept for LLM security research.
-
----
-
-**Project Status:** Toy MVP / Proof-of-Concept
-**For detailed docs:** See QUICKSTART.md, PROJECT_HYDRA_PLAN.md, MVP_SUMMARY.md
+[@bigsnarfdude](https://github.com/bigsnarfdude) as a proof-of-concept for LLM security research
