@@ -1,0 +1,10 @@
+# Project Hydra - Toy MVP Requirements
+# Python 3.11+ recommended
+
+# Core dependencies
+requests>=2.31.0
+pyyaml>=6.0.1
+
+# Optional: For advanced features (not needed for MVP)
+# rich>=13.7.0        # Pretty terminal output
+# click>=8.1.7        # Better CLI framework
