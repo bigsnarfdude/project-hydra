@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Project Hydra - Toy MVP
+Project Hydra
 Adversarial prompt testing using local Ollama models
 """
 
