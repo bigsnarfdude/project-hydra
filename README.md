@@ -191,7 +191,3 @@ Complements [llm-abuse-patterns](https://github.com/bigsnarfdude/llm-abuse-patte
 ## License
 
 Apache 2.0 (see LICENSE file)
-
-## Author
-
-[@bigsnarfdude](https://github.com/bigsnarfdude) as a proof-of-concept for LLM security research
